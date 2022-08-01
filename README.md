@@ -14,3 +14,5 @@ A curated list of awesome Flutter frameworks, libraries, software and resources
 # 优秀库
 
 [Flutter Boost](https://github.com/alibaba/flutter_boost) - 新一代Flutter-Native混合解决方案。 FlutterBoost是一个Flutter插件，它可以轻松地为现有原生应用程序提供Flutter混合集成方案。
+
+[PowerImage](https://github.com/alibaba/power_image) - 一个充分利用原生图片库能力、高扩展性的flutter图片库。
