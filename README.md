@@ -8,6 +8,9 @@ A curated list of awesome Flutter frameworks, libraries, software and resources
 * [深入浅出 Flutter Framework](https://zxfcumtcs.github.io/2020/05/01/deepinto-flutter-widget/) - Flutter Framework系列文章，干货满满，分八篇
 从widget、BuildOwner、Element、PaintingContext、Layout、PipelineOwner、RenderObject到自定义widget
 * [字节跳动业务在 Flutter 轻量级引擎上的实践与优化](https://my.oschina.net/u/4180867/blog/5395182) - 介绍字节在flutter多引擎方面的研究，其中给到了多引擎内存共享解决方案，图片多引擎共享方案等
+* [Flutter 上的内存泄漏监控](https://flutter.cn/community/tutorials/memory-leak-monitoring-on-flutter) - 本文将会带你实现一个 Flutter 可用的 LeakCanary，并讲述我是怎么用该工具检测出了 1.9.1 Framework 上的两个泄漏。
+
+
 
 
 
