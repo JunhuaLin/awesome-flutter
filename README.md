@@ -15,3 +15,6 @@ A curated list of awesome Flutter frameworks, libraries, software and resources
 
 * [Flutter Boost](https://github.com/alibaba/flutter_boost) - 新一代Flutter-Native混合解决方案。 FlutterBoost是一个Flutter插件，它可以轻松地为现有原生应用程序提供Flutter混合集成方案。
 * [PowerImage](https://github.com/alibaba/power_image) - 一个充分利用原生图片库能力、高扩展性的flutter图片库。
+* [Beike_AspectD](https://github.com/LianjiaTech/Beike_AspectD) - Beike_AspectD是一个dart面向切面库。闲鱼的AspectD为开发者提供了call/execute/inject三种方式对代码进行操作。除此之外，Beike_AspectD还提供了：Add语法支持为class添加方法；FieldGet语法支持更换变量获取；支持空安全。（null-safety下的分支）支持Flutter for Web；其他的一些问题修复.
+
+
