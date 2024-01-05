@@ -18,6 +18,7 @@ A curated list of awesome Flutter frameworks, libraries, software and resources
 
 * [Flutter Boost](https://github.com/alibaba/flutter_boost) - 新一代Flutter-Native混合解决方案。 FlutterBoost是一个Flutter插件，它可以轻松地为现有原生应用程序提供Flutter混合集成方案。
 * [fluro](https://github.com/lukepighetti/fluro) - 基于Navigater 1.0 api编写的路由库，最明亮、最时尚、最酷的 Flutter 路由器。
+* [go_router](https://pub.dev/packages/go_router) - 官方路由框架，基于Navigater 2.0，Flutter 的声明式路由包，使用 Router API 提供方便的、基于 url 的 API，用于在不同屏幕之间导航。您可以定义 URL 模式、使用 URL 进行导航、处理深层链接以及许多其他与导航相关的场景。
 
 ## 状态管理
 
