@@ -19,6 +19,13 @@ A curated list of awesome Flutter frameworks, libraries, software and resources
 * [Flutter Boost](https://github.com/alibaba/flutter_boost) - 新一代Flutter-Native混合解决方案。 FlutterBoost是一个Flutter插件，它可以轻松地为现有原生应用程序提供Flutter混合集成方案。
 * [fluro](https://github.com/lukepighetti/fluro) - 基于Navigater 1.0 api编写的路由库，最明亮、最时尚、最酷的 Flutter 路由器。
 
+## 状态管理
+
+* [getx](https://github.com/jonataslaw/getx) - GetX 是一个超轻且强大的 Flutter 解决方案。它快速实用地结合了高性能状态管理、智能依赖注入和路由管理。
+* [provider](https://github.com/rrousselGit/provider) - 对 InheritedWidget 组件的上层封装，使其更易用，更易复用。
+* [riverpod](https://github.com/rrousselGit/riverpod) - A reactive caching and data-binding framework. https://riverpod.dev。对provider优化。
+* [flutter_redux](https://github.com/brianegan/flutter_redux) - A set of utilities that allow you to easily consume a Redux Store to build Flutter Widgets.
+
 ## UI库
 
 * [PowerImage](https://github.com/alibaba/power_image) - 一个充分利用原生图片库能力、高扩展性的flutter图片库。
