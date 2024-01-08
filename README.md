@@ -37,3 +37,8 @@ A curated list of awesome Flutter frameworks, libraries, software and resources
 
 * [Beike_AspectD](https://github.com/LianjiaTech/Beike_AspectD) - Beike_AspectD是一个dart面向切面库。闲鱼的AspectD为开发者提供了call/execute/inject三种方式对代码进行操作。除此之外，Beike_AspectD还提供了：Add语法支持为class添加方法；FieldGet语法支持更换变量获取；支持空安全。（null-safety下的分支）支持Flutter for Web；其他的一些问题修复.
 * [floor](https://github.com/pinchbv/floor) - Flutter SQLite ORM插件，它带有内存中对象和数据库行之间的自动映射，同时仍然通过使用 SQL 提供对数据库的完全控制。
+
+## WebView
+
+* [flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview) - Flutter WebView封装库，允许您添加内联 Web 视图、使用无头 Web 视图以及打开应用内浏览器窗口。功能完善，文档丰富，开箱即用。
+* [webview_flutter](https://pub.dev/packages/webview_flutter) - flutter官方封装的WebView库，功能在不断完善，存在一些问题，提供原生能力，部分功能需要自己实现。
