@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://120.92.94.55/app/packages/sit/fund/Airstar-sit-20240514-1813-2024051418-6.1.1.ipa</string> <!-- 你的 .ipa 文件 URL -->
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.airstarbank.mobilebanking</string> <!-- 你的应用程序的 Bundle Identifier -->
+                <key>bundle-version</key>
+                <string>1.0</string> <!-- 你的应用程序的版本号 -->
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>天星银行</string> <!-- 你的应用程序的名称 -->
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
