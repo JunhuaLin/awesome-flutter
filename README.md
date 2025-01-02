@@ -14,6 +14,11 @@ A curated list of awesome Flutter frameworks, libraries, software and resources
 
 # 优秀库
 
+## Pub管理
+
+* [unpub](https://github.com/pd4d10/unpub) - Unpub 是一个自托管的企业私有 Dart Pub 服务器，具有一个简单的 Web 界面来搜索和查看包信息。
+
+
 ## 路由库
 
 * [Flutter Boost](https://github.com/alibaba/flutter_boost) - 新一代Flutter-Native混合解决方案。 FlutterBoost是一个Flutter插件，它可以轻松地为现有原生应用程序提供Flutter混合集成方案。
