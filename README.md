@@ -48,3 +48,7 @@ A curated list of awesome Flutter frameworks, libraries, software and resources
 
 * [flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview) - Flutter WebView封装库，允许您添加内联 Web 视图、使用无头 Web 视图以及打开应用内浏览器窗口。功能完善，文档丰富，开箱即用。
 * [webview_flutter](https://pub.dev/packages/webview_flutter) - flutter官方封装的WebView库，功能在不断完善，存在一些问题，提供原生能力，部分功能需要自己实现。
+
+## 其他导航站
+
+* [fluttergems](https://fluttergems.dev/) - Flutter热门插件使用排行。
