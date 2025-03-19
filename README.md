@@ -16,7 +16,8 @@ A curated list of awesome Flutter frameworks, libraries, software and resources
 
 ## Pub管理
 
-* [unpub](https://github.com/pd4d10/unpub) - Unpub 是一个自托管的企业私有 Dart Pub 服务器，具有一个简单的 Web 界面来搜索和查看包信息。
+* [unpub](https://github.com/pd4d10/unpub) - Unpub 是一个自托管的企业私有 Dart Pub 服务器，具有一个简单的 Web 界面来搜索和查看包信息。是基于pubdev改造而来。
+* [pub-dev](https://github.com/dart-lang/pub-dev) - pubdev 是dart和flutter一个包托管服务器代码，具有一个简单的 Web 界面来搜索和查看包信息。
 
 
 ## 路由库
