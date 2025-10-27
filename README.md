@@ -20,11 +20,16 @@ A curated list of awesome Flutter frameworks, libraries, software and resources
 * [pub-dev](https://github.com/dart-lang/pub-dev) - pubdev 是dart和flutter一个包托管服务器代码，具有一个简单的 Web 界面来搜索和查看包信息。
 
 
-## 路由库
+## 路由库-混合栈
 
 * [Flutter Boost](https://github.com/alibaba/flutter_boost) - 新一代Flutter-Native混合解决方案。 FlutterBoost是一个Flutter插件，它可以轻松地为现有原生应用程序提供Flutter混合集成方案。
+* [fusion](https://github.com/gtbluesky/fusion) - Fusion 是新一代的混合栈管理框架，用于 Flutter 与 Native 页面统一管理，并支持页面通信、页面生命周期监听等功能。Fusion 即 融合，我们的设计初衷就是帮助开发者在使用 Flutter 与 Native 进行混合开发时尽量感受不到两者的隔阂，提升开发体验。支持鸿蒙。
+
+## 路由库-纯Flutter
 * [fluro](https://github.com/lukepighetti/fluro) - 基于Navigater 1.0 api编写的路由库，最明亮、最时尚、最酷的 Flutter 路由器。
 * [go_router](https://pub.dev/packages/go_router) - 官方路由框架，基于Navigater 2.0，Flutter 的声明式路由包，使用 Router API 提供方便的、基于 url 的 API，用于在不同屏幕之间导航。您可以定义 URL 模式、使用 URL 进行导航、处理深层链接以及许多其他与导航相关的场景。
+
+
 
 ## 状态管理
 
